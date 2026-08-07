@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+.mvn/
+mvnw
+mvnw.cmd
+
+# Fichier contenant les identifiants réels — ne jamais publier
+src/main/resources/application.properties
